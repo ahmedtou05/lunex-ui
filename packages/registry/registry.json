@@ -1,0 +1,19 @@
+{
+    "version": "0.1.0",
+    "components": [
+        {
+            "name": "button",
+            "description": "A flexible button component",
+            "dependencies": ["class-variance-authority", "clsx", "tailwind-merge"],
+            "devDependencies": [],
+            "files": [
+                {
+                    "name": "button.tsx",
+                    "path": "components/ui/button.tsx",
+                    "content": ""
+                }
+            ],
+            "type": "ui"
+        }
+    ]
+}
